@@ -1,0 +1,18 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "product 1",
+            "price": 500,
+            "decryption": "product 1 decryption",
+            "image": "https://images.pexels.com/photos/358042/pexels-photo-358042.jpeg?_gl=1*19m74vu*_ga*MTc5MDkzNTU0Ny4xNzUyODU3MDk4*_ga_8JE65Q40S6*czE3NTI4NTcwOTckbzEkZzEkdDE3NTI4NTcxNzUkajUwJGwwJGgw"
+        },
+        {
+            "id": 2,
+            "title": "product 2",
+            "price": 225,
+            "decryption": "Doll decryption",
+            "image": "https://images.pexels.com/photos/160472/doll-boy-cheeky-toys-160472.jpeg?_gl=1*1js4wni*_ga*MTc5MDkzNTU0Ny4xNzUyODU3MDk4*_ga_8JE65Q40S6*czE3NTI4NTcwOTckbzEkZzEkdDE3NTI4NTczNDYkajQ0JGwwJGgw"
+        }
+    ]
+}
